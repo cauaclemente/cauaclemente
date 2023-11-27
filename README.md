@@ -25,6 +25,33 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,sass,ts," />
+    <img src="https://skillicons.dev/icons?i=react,js,sass,ts,html,css,"/>
   </a>
 </p>
+
+## 🛠️Ferramentas de desenvolvimento
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,github,git," />
+  </a>
+</p>
+
+## Estudando neste momento:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs"/>
+  </a>
+</p>
+
+### 📱 Minhas redes:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/cau%C3%A3-clemente-3b59291a0/"title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+</a>
+</p>
+
+
+
