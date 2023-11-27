@@ -12,14 +12,17 @@
 - 👨‍💻 Aperfeiçoando meus conhecimentos no curso **Full Stack Profissão Programador**.
 
 - 📚 Sou apaixonado por tecnologia, constantemente em busca de aprendizado e aprimoramento de conhecimentos.
+</br>
 
-### 📊 Estatísticas
+### 📱 Minhas redes:
 
-<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaClemente&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
+<div align="left">
+<a href="https://www.linkedin.com/in/cau%C3%A3-clemente-3b59291a0/" target="_blank">
+<img width= "110px" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://github.com/cauaclemente/Portfolio" target="_blank">
+<img width= "100px" src="https://img.shields.io/badge/Portfólio-DF0174?style=for-the-badge&logo=About.&logoColor=white" target="_blank"></a> 
+</div> </a></br>
 
-<br>
 
 ## 🚀Habilidades principais: 
 
@@ -28,6 +31,12 @@
     <img src="https://skillicons.dev/icons?i=react,js,sass,ts,html,css,"/>
   </a>
 </p>
+
+### 📊 Estatísticas
+
+<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaClemente&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
 
 ## 🛠️Ferramentas de desenvolvimento
 
@@ -45,13 +54,6 @@
   </a>
 </p>
 
-### 📱 Minhas redes:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/cau%C3%A3-clemente-3b59291a0/"title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
-</a>
-</p>
 
 
 
