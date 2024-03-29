@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,sass,ts,html,css,nodejs,express"/>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nodejs,postgres,express"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodej"/>
+    <img src="https://skillicons.dev/icons?i=nextjs"/>
   </a>
 </p>
 
