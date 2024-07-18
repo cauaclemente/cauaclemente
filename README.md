@@ -8,8 +8,6 @@
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-  
-- 👨‍💻 Aperfeiçoando meus conhecimentos no curso **Full Stack Profissão Programador**.
 
 - 📚 Sou apaixonado por tecnologia, constantemente em busca de aprendizado e aprimoramento de conhecimentos.
 </br>
