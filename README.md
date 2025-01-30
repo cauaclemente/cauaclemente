@@ -15,7 +15,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/cau%C3%A3-clemente-3b59291a0/" target="_blank">
-<img width= "115px"src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<img width= "113px"src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://github.com/cauaclemente/portfolio" target="_blank">
 <img width= "117px" src="https://img.shields.io/badge/Portfólio-DF0174?style=for-the-badge&logo=About.&logoColor=white" target="_blank"></a> 
 </div> </a></br>
