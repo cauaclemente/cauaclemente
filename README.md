@@ -35,14 +35,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaClemente&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-## 🛠️Ferramentas de desenvolvimento
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,github,git,postman" />
-  </a>
-</p>
-
 ## Estudando neste momento:
 
 <p align="left">
