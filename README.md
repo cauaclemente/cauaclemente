@@ -1,24 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004bc6&height=120&section=header&text=Cauã+Clemente"/> 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004bc6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo+:%29;Sou+desenvolvedor+Full-Stack;sinta-se+à+vontade+para+conhecer+meus+repositórios;Aqui+abaixo+são+algumas+informações+sobre+mim.)](https://git.io/typing-svg)
-
-
-</br>
-
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-
-- 📚 Sou apaixonado por tecnologia, constantemente em busca de aprendizado e aprimoramento de conhecimentos.
-</br>
-
-
-<div align="center">
-<a href="https://www.linkedin.com/in/cau%C3%A3-clemente-3b59291a0/" target="_blank">
-<img width= "110px"src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-
-</div> </a></br>
-
 
 ## 🚀Habilidades principais: 
 
