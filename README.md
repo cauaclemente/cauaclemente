@@ -13,10 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaClemente&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaClemente&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
 ## Estudando neste momento:
 
 <p align="left">
