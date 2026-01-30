@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,aws,react,ts,js,nodejs,jest,postgres,sql,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,aws,react,ts,js,nodejs,jest,postgres,mysql,mongodb"/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,bun"/>
   </a>
 </p>
 
