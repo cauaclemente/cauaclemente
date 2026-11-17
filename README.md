@@ -14,8 +14,6 @@
   <img align="center" src="https://streak-stats.demolab.com?user=cauaclemente&theme=dracula&hide_border=true" alt="Sequência de contribuições no GitHub"/>
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cauaclemente&theme=dracula&hide_border=true" alt="Gráfico de contribuições dos últimos 31 dias"/>
-
 ## Estudando neste momento:
 
 <p align="left">
