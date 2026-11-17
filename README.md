@@ -1,4 +1,4 @@
-Software Engineer Full Stack na Saygo Group · React/Next.js + Node.js/NestJS na AWS · estudando system design (cache, mensageria, IaC)
+Software Engineer Full Stack na Saygo Group, construindo aplicações com React/Next.js e Node.js/NestJS na AWS.
 
 [![Email](https://img.shields.io/badge/Email-cauaclemente07%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cauaclemente07@gmail.com)
 
@@ -20,6 +20,6 @@ Software Engineer Full Stack na Saygo Group · React/Next.js + Node.js/NestJS na
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,kubernetes,kafka"/>
+    <img src="https://skillicons.dev/icons?i=terraform,kubernetes,kafka,cs,dotnet"/>
   </a>
 </p>
